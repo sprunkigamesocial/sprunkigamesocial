@@ -1,6 +1,7 @@
 # What is Sprunki Game?
 [Sprunki Game](https://sprunki-game.io/) is a puzzle and adventure video game created by a creative team who want to provide players with moments of relaxation and enjoyment. The game revolves around gorgeous characters known as Sprunki, each of them have unique powers that help players solve game problems.
 
+![sprunki game cover.JPG](https://github.com/sprunkigamesocial/sprunkigamesocial/blob/7d745e75fc7c026a916c53bce68e43fd8ccef1df/sprunki%20game%20cover.JPG)
 ## Vivid graphics and sound
 
 The vivid and brilliant graphics in Sprunki Game are one of its best features. The characters are made in a pleasant cartoon style and paired with a vibrant scene to create a fascinating Sprunki universe. The game's sound is likewise well-designed, with joyful background music and colorful sound effects that let players immerse themselves in each level.
@@ -28,3 +29,11 @@ Connecting with the community: Join Sprunki Game to meet and compete with other 
 # Conclusion
 
 Sprunki Game is a bright and visually appealing entertainment game that is ideal for all players. With stunning graphics, interesting gameplay, and adorable characters, Sprunki Game promises to provide hours of fun. Download Sprunki Game and start exploring the amazing world of Sprunki today!
+
+# Join the Sprunki Game community!
+Experience a new role with Sprunki Game as you express your new musical creations. Accompany Sprunki characters and express your own melodic emotions.
+- [ ] [Website](https://sprunki-game.io)
+- [ ] [Reddit](https://www.reddit.com/user/Ashamed-Ad-3020/)
+- [ ] [X](https://x.com/SprunkiGame00)
+- [ ] [Pinterest](https://www.pinterest.com/sprunkigamesocial/)
+- [ ] [YouTube](https://www.youtube.com/@sprunkigamesocial)
